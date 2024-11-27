@@ -4,7 +4,7 @@ PULM
 ## TODO:
 - [x] KomMPJuteri i switcheroo
 - [ ] Dokumetirat portove
-- [ ] Subnet
+- [x] Subnet
 - [ ] VLANovi
 - [ ] De ha ce pe
 - [ ] Make it Assthethicc
